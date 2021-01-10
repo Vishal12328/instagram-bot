@@ -34,7 +34,3 @@ time.sleep(3)
 log_clc = chrome.find_element_by_xpath("/html/body/div[1]/section/main/section/div/div[1]/div/div/div/div/ul/li[4]/div/button/div[1]/span/img")     
 log_clc.click()   
 time.sleep(3)
-#enters keys in search
-search = chrome.find_element_by_xpath("/html/body/div[1]/section/nav/div[2]/div/div/div[2]/div")
-search.click()
-
