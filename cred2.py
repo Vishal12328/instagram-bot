@@ -1,3 +1,3 @@
 username = "your username or gmail"
-password = "yout password"
+password = "your password"
 
